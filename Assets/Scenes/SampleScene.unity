@@ -312,6 +312,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 7
+  bulletSpawner: {fileID: 237555617}
+  bullet: {fileID: 1675797673136046, guid: 9f973293e7bde1a4fae639b7884f32d5, type: 2}
 --- !u!4 &785310369
 Transform:
   m_ObjectHideFlags: 0
